@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/save_as"
+        android:title="@string/save_as"
+        android:orderInCategory="101"
+        app:showAsAction="always"
+        android:icon="@drawable/save">
+
+    </item>
+
+    <item
+        android:id="@+id/preview"
+        android:title="@string/preview"
+        android:orderInCategory="101"
+        app:showAsAction="always"
+        android:icon="@drawable/eye">
+
+    </item>
+
+
+</menu>

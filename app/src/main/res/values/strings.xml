@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StoryEditor</string>
+    <string name="options">option_menu</string>
+    <string name="save_as">save_as</string>
+    <string name="preview">preview</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+</resources>
